@@ -49,6 +49,7 @@ I'm a graduate of Cal Poly San Luis Obispo with a bachelor's of science degree i
 
 - **Description**: My first published IOS and Android Mobile Game
 - **Technologies Used**: Unity Auth, Unity CloudStore, Unity IAP, Unity Economy, Firebase, Google Analytics, Facebook SDK, Ironsource SDK, Figma, Ironsource Mediation, Google Play Authentication, Apple Game Center Auth, Github LFS, Github CoPilot, Dotween, Particle Systems
+
 <a href="https://play.google.com/store/apps/details?id=com.robinson.nc2048" target="_blank">**Google Play Listing**</a>
 - <a href="https://apps.apple.com/us/app/number-crunch-tiles/id6462944098" target="_blank">**Apple App Store Listing**</a>
 - <a href="https://github.com/crobin27/NumberCrunchTiles-Public" target="_blank">**GitHub Repo**</a>
