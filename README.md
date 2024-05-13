@@ -5,6 +5,7 @@
 I'm a graduate of Cal Poly San Luis Obispo with a bachelor's of science degree in Computer Engineering. I've worked on several projects over the years and some are listed below!
 
 ## 🛠 Skills
+<p> 
 <img src="/Assets/unity.png" width="50" height="50" alt="Unity">
 <img src="/Assets/firebase.png" width="50" height="50" alt="Firebase">
 <img src="/Assets/c-sharp.png" width="50" height="50" alt="C#">
@@ -17,7 +18,7 @@ I'm a graduate of Cal Poly San Luis Obispo with a bachelor's of science degree i
 <img src="/Assets/python.png" width="50" height="50" alt="Python">
 <img src="/Assets/sql.png" width="50" height="50" alt="SQL">
 <img src="/Assets/visual-studio.png" width="50" height="50" alt="Visual Studio">
-
+</p>
 
 ## 🚀 Projects
 
