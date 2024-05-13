@@ -5,18 +5,19 @@
 I'm a graduate of Cal Poly San Luis Obispo with a bachelor's of science degree in Computer Engineering. I've worked on several projects over the years and some are listed below!
 
 ## 🛠 Skills
-![Unity](/Assets/unity.png)
-![Firebase](/Assets/firebase.png)
-![C#](/Assets/c-sharp.png)
-![C++](/Assets/c-.png)
-![Google Play](/Assets/google-play.png)
-![iOS](/Assets/app-store.png)
-![Figma](/Assets/figma.png)
-![Github](/Assets/github.png)
-![IronSource](/Assets/ironsource.jpg)
-![Python](/Assets/python.png)
-![SQL](/Assets/sql.png)
-![Visual Studio](/Assets/visual-studio.png)
+<img src="/Assets/unity.png" width="50" height="50" alt="Unity">
+<img src="/Assets/firebase.png" width="50" height="50" alt="Firebase">
+<img src="/Assets/c-sharp.png" width="50" height="50" alt="C#">
+<img src="/Assets/c-.png" width="50" height="50" alt="C++">
+<img src="/Assets/google-play.png" width="50" height="50" alt="Google Play">
+<img src="/Assets/app-store.png" width="50" height="50" alt="iOS">
+<img src="/Assets/figma.png" width="50" height="50" alt="Figma">
+<img src="/Assets/github.png" width="50" height="50" alt="Github">
+<img src="/Assets/ironsource.jpg" width="50" height="50" alt="IronSource">
+<img src="/Assets/python.png" width="50" height="50" alt="Python">
+<img src="/Assets/sql.png" width="50" height="50" alt="SQL">
+<img src="/Assets/visual-studio.png" width="50" height="50" alt="Visual Studio">
+
 
 ## 🚀 Projects
 
