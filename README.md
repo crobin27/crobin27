@@ -23,12 +23,11 @@ I'm a graduate of Cal Poly San Luis Obispo with a bachelor's of science degree i
 ## 🚀 Projects
 
 ### [Word Match Tiles]
-<!-- Image linked to the project -->
-[![Project Name](Link to project image)](Link to project or more info)
+[![Word Match Tiles(/Assets/word-match-tiles-feature-graphic)]
 - **Description**: Mobile Word Puzzle Game published to the Google Play Store using the Unity Gaming Engine. 
-- **Technologies Used**: Unity and UGS, C#, Firebase, Ironsource, 
-- **[Live Demo](Link to live demo)**
-- **[GitHub Repo](Link to GitHub repo)**
+- **Technologies Used**: Unity and UGS, C#, Firebase, Ironsource, Figma, Unity IAP, Google Analytics
+- **[Google Play Listing](https://play.google.com/store/apps/details?id=com.robinson.wordmatchtiles)
+- **[GitHub Repo]()**
 
 ### [RobinsonGaming.com]
 [![Another Project Name](Link to project image)](Link to project or more info)
@@ -37,7 +36,6 @@ I'm a graduate of Cal Poly San Luis Obispo with a bachelor's of science degree i
 - **[Live Demo](Link to live demo)**
 - **[GitHub Repo](Link to GitHub repo)**
 
-- 
 ### [Number Crunch Tiles]
 [![Another Project Name](Link to project image)](Link to project or more info)
 - **Description**: Brief description of the project.
@@ -46,4 +44,4 @@ I'm a graduate of Cal Poly San Luis Obispo with a bachelor's of science degree i
 - **[GitHub Repo](Link to GitHub repo)**
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=crobin27&show_icons=true)
