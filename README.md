@@ -26,6 +26,7 @@ I'm a graduate of Cal Poly San Luis Obispo with a bachelor's of science degree i
 <p>
   <img src="/Assets/word-match-tiles-feature-graphic.png" alt="Word Match Tiles" style="width: 512px; height: 250px; object-fit: cover;">
 </p>
+
 - **Description**: Mobile Word Puzzle Game published to the Google Play Store using the Unity Gaming Engine. 
 - **Technologies Used**: Unity Auth, Unity CloudStore, Unity IAP, Unity Economy, Firebase, Google Analytics, Facebook SDK, Ironsource SDK, Figma, Ironsource Mediation, Google Play Authentication, Apple Game Center Auth, Github LFS, Github CoPilot, Dotween, Particle Systems
 - **[Google Play Listing](https://play.google.com/store/apps/details?id=com.robinson.wordmatchtiles)**
@@ -35,6 +36,7 @@ I'm a graduate of Cal Poly San Luis Obispo with a bachelor's of science degree i
 <p>
   <img src="/Assets/robinson-gaming-feature-graphic.png" alt="RobinsonGaming.com" style="width: 512px; height: 250px; object-fit: cover;">
 </p>
+
 - **Description**: Static Site - Developer Website and Portfolio
 - **Technologies Used**: Astro.js, TailwindCSS, CloudFlare CI/CD, SEO
 - **[RobinsonGaming.com](https://www.robinsongaming.com)**
@@ -44,6 +46,7 @@ I'm a graduate of Cal Poly San Luis Obispo with a bachelor's of science degree i
 <p>
   <img src="/Assets/number-crunch-tiles-feature-graphic.png" alt="Number Crunch Tiles" style="width: 512px; height: 250px; object-fit: cover;">
 </p>
+
 - **Description**: My first published IOS and Android Mobile Game
 - **Technologies Used**: Unity Auth, Unity CloudStore, Unity IAP, Unity Economy, Firebase, Google Analytics, Facebook SDK, Ironsource SDK, Figma, Ironsource Mediation, Google Play Authentication, Apple Game Center Auth, Github LFS, Github CoPilot, Dotween, Particle Systems
 - **[Google Play Listing](https://play.google.com/store/apps/details?id=com.robinson.nc2048)
