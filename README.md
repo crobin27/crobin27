@@ -23,11 +23,11 @@ I'm a graduate of Cal Poly San Luis Obispo with a bachelor's of science degree i
 ## 🚀 Projects
 
 ### [Word Match Tiles]
-[![Word Match Tiles(/Assets/word-match-tiles-feature-graphic)]
+![Word Match Tiles](/Assets/word-match-tiles-feature-graphic)
 - **Description**: Mobile Word Puzzle Game published to the Google Play Store using the Unity Gaming Engine. 
 - **Technologies Used**: Unity and UGS, C#, Firebase, Ironsource, Figma, Unity IAP, Google Analytics
-- **[Google Play Listing](https://play.google.com/store/apps/details?id=com.robinson.wordmatchtiles)
-- **[GitHub Repo]()**
+- **[Google Play Listing](https://play.google.com/store/apps/details?id=com.robinson.wordmatchtiles)**
+- **[GitHub Repo](https://github.com/crobin27/WordMatchTiles-Public)**
 
 ### [RobinsonGaming.com]
 [![Another Project Name](Link to project image)](Link to project or more info)
