@@ -14,6 +14,8 @@ I'm a graduate of Cal Poly San Luis Obispo with a bachelor's of science degree i
 ![Figma](/Assets/figma.png)
 ![Github](/Assets/github.png)
 ![IronSource](/Assets/ironsource.jpg)
+![Python](/Assets/python.png)
+![SQL](/Assets/sql.png)
 ![Visual Studio](/Assets/visual-studio.png)
 
 ## 🚀 Projects
