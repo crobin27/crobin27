@@ -5,12 +5,16 @@
 I'm a graduate of Cal Poly San Luis Obispo with a bachelor's of science degree in Computer Engineering. I've worked on several projects over the years and some are listed below!
 
 ## 🛠 Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
-![C#](https://img.shields.io/badge/-CSharp-000?&logo=c-sharp)
-![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
-![iOS](https://img.shields.io/badge/-iOS-000?&logo=iOS)
+![Unity](/Assets/unity.png)
+![Firebase](/Assets/firebase.png)
+![C#](/Assets/c-sharp.png)
+![C++](/Assets/c-.png)
+![Google Play](/Assets/google-play.png)
+![iOS](/Assets/app-store.png)
+![Figma](/Assets/figma.png)
+![Github](/Assets/github.png)
+![IronSource](/Assets/ironsource.jpg)
+![Visual Studio](/Assets/visual-studio.png)
 
 ## 🚀 Projects
 
