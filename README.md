@@ -30,6 +30,7 @@ I'm a graduate of Cal Poly San Luis Obispo with a bachelor's of science degree i
 - **Description**: Mobile Word Puzzle Game published to the Google Play Store using the Unity Gaming Engine. 
 - **Technologies Used**: Unity Auth, Unity CloudStore, Unity IAP, Unity Economy, Firebase, Google Analytics, Facebook SDK, Ironsource SDK, Figma, Ironsource Mediation, Google Play Authentication, Apple Game Center Auth, Github LFS, Github CoPilot, Dotween, Particle Systems
 - **[Google Play Listing](https://play.google.com/store/apps/details?id=com.robinson.wordmatchtiles)**
+- **[Apple App Store](https://apps.apple.com/us/app/word-match-tiles/id6477621209)**
 - **[GitHub Repo](https://github.com/crobin27/WordMatchTiles-Public)**
 
 ### RobinsonGaming.com
@@ -40,7 +41,6 @@ I'm a graduate of Cal Poly San Luis Obispo with a bachelor's of science degree i
 - **Description**: Static Site - Developer Website and Portfolio
 - **Technologies Used**: Astro.js, TailwindCSS, CloudFlare CI/CD, SEO
 - **[RobinsonGaming.com](https://www.robinsongaming.com)**
-- **[GitHub Repo](https://github.com/crobin27/robinson-gaming)**
 
 ### Number Crunch Tiles
 <p>
@@ -51,5 +51,4 @@ I'm a graduate of Cal Poly San Luis Obispo with a bachelor's of science degree i
 - **Technologies Used**: Unity Auth, Unity CloudStore, Unity IAP, Unity Economy, Firebase, Google Analytics, Facebook SDK, Ironsource SDK, Figma, Ironsource Mediation, Google Play Authentication, Apple Game Center Auth, Github LFS, Github CoPilot, Dotween, Particle Systems
 - **[Google Play Listing](https://play.google.com/store/apps/details?id=com.robinson.nc2048)**
 - **[Apple App Store Listing](https://apps.apple.com/us/app/number-crunch-tiles/id6462944098)**
-- **[GitHub Repo](https://github.com/crobin27/NumberCrunchTiles-Public)**
 - **Thank you for 10,000+ Downloads!**
