@@ -36,7 +36,7 @@ I'm an aspiring software engineer with experience in many different areas includ
 
 ### ESP32 - Trail Cam Project
 <p>
-  <img src="/Assets/number-crunch-tiles-feature-graphic.png" alt="Number Crunch Tiles" style="width: 512px; height: 250px; object-fit: cover;">
+  <img src="/Assets/ESP32.png" alt="Number Crunch Tiles" style="width: 512px; height: 250px; object-fit: cover;">
 </p>
 
 - **Description**: A "Security" system using the ESP32-CAM that utilizes FreeRTOS and Wifi-Connectivity for moment detection, uploading images to AWS s3 Bucket via API Gateway
