@@ -2,7 +2,7 @@
 ### Cole Robinson
 
 ## 👨‍💻 About Me
-I'm a graduate of Cal Poly San Luis Obispo with a bachelor's of science degree in Computer Engineering. I've worked on several projects over the years and some are listed below!
+I'm an aspiring software engineer with experience in many different areas including Game Development, Embedded Engineering, and Cloud Infrastructure. With a Computer Engineering degree from Cal Poly SLO, I have plenty of hands on lab experience testing and scaling different systems and components. 
 
 ## 🛠 Skills
 <p> 
@@ -33,6 +33,16 @@ I'm a graduate of Cal Poly San Luis Obispo with a bachelor's of science degree i
 - **[Apple App Store](https://apps.apple.com/us/app/word-match-tiles/id6477621209)**
 - **[GitHub Repo](https://github.com/crobin27/WordMatchTiles-Public)**
 
+
+### ESP32 - Trail Cam Project
+<p>
+  <img src="/Assets/number-crunch-tiles-feature-graphic.png" alt="Number Crunch Tiles" style="width: 512px; height: 250px; object-fit: cover;">
+</p>
+
+- **Description**: A "Security" system using the ESP32-CAM that utilizes FreeRTOS and Wifi-Connectivity for moment detection, uploading images to AWS s3 Bucket via API Gateway
+- **Technologies Used**: ESP-IDF, C/C++, Cmake, FreeRTOS, HTTP, RESTful API, Amazon Web Services (S3, Lambda, DynamoDB, API Gateway, IAM) 
+- **[GitHub Repo](https://github.com/crobin27/](https://github.com/crobin27/trail-cam-esp32)**
+  
 ### RobinsonGaming.com
 <p>
   <img src="/Assets/robinson-gaming-feature-graphic.png" alt="RobinsonGaming.com" style="width: 512px; height: 250px; object-fit: cover;">
@@ -41,14 +51,3 @@ I'm a graduate of Cal Poly San Luis Obispo with a bachelor's of science degree i
 - **Description**: Static Site - Developer Website and Portfolio
 - **Technologies Used**: Astro.js, TailwindCSS, CloudFlare CI/CD, SEO
 - **[RobinsonGaming.com](https://www.robinsongaming.com)**
-
-### Number Crunch Tiles
-<p>
-  <img src="/Assets/number-crunch-tiles-feature-graphic.png" alt="Number Crunch Tiles" style="width: 512px; height: 250px; object-fit: cover;">
-</p>
-
-- **Description**: My first published IOS and Android Mobile Game
-- **Technologies Used**: Unity Auth, Unity CloudStore, Unity IAP, Unity Economy, Firebase, Google Analytics, Facebook SDK, Ironsource SDK, Figma, Ironsource Mediation, Google Play Authentication, Apple Game Center Auth, Github LFS, Github CoPilot, Dotween, Particle Systems
-- **[Google Play Listing](https://play.google.com/store/apps/details?id=com.robinson.nc2048)**
-- **[Apple App Store Listing](https://apps.apple.com/us/app/number-crunch-tiles/id6462944098)**
-- **Thank you for 10,000+ Downloads!**
