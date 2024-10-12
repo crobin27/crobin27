@@ -19,7 +19,7 @@ I'm an aspiring software engineer with experience in many different areas includ
 <img src="/Assets/google-play.png" width="50" height="50" alt="Google Play">
 <img src="/Assets/app-store.png" width="50" height="50" alt="iOS">
 <img src="/Assets/ironsource.jpg" width="50" height="50" alt="IronSource">
-<img src="/Assets/aws.png>" width="50" height="50"
+<img src="/Assets/aws.png" width="50" height="50"
  alt="Amazon Web Services">
 </p>
 
