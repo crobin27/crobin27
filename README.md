@@ -37,7 +37,7 @@ I'm a software engineer with a passion for Game Development, Embedded Engineerin
 </p>
 
 - **Description**: A "security" system using the ESP32-CAM that utilizes FreeRTOS and Wi-Fi connectivity to detect motion and upload images to an AWS S3 bucket via API Gateway.
-- **Technologies Used**: ESP-IDF, C/C++, CMake, FreeRTOS, HTTP, RESTful API, AWS (S3, Lambda, DynamoDB, API Gateway, IAM)
+- **Technologies Used**: ESP-IDF, C/C++, CMake, FreeRTOS, HTTP, RESTful API, AWS Infrastructure w/ Terraform (S3, Lambda, DynamoDB, API Gateway, IAM)
 - **[GitHub Repo](https://github.com/crobin27/trail-cam-esp32)**
 
 ### RobinsonGaming.com
