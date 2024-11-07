@@ -48,7 +48,7 @@ I'm a software engineer with a passion for Game Development, Embedded Engineerin
 - **Description**: Static site showcasing my projects and portfolio.
 - **Technologies Used**: Figma, Astro.js, CSS, Cloudflare CI/CD, SEO strategies
 - **[RobinsonGaming.com - Live Site](https://www.robinsongaming.com)**
-- - **[GitHub Repo](https://github.com/crobin27/robinson-gaming)**
+- **[GitHub Repo](https://github.com/crobin27/robinson-gaming)**
 
 ---
 
