@@ -21,7 +21,7 @@ I'm a software engineer with a passion for Game Development, Embedded Engineerin
 
 ### Word Match Tiles
 <p>
-  <img src="/Assets/word-match-tiles-feature-graphic.png" alt="Word Match Tiles" style="width: 512px; height: 250px; object-fit: cover;">
+  <img src="/Assets/word-match-tiles-feature-graphic.png" alt="Word Match Tiles" style="width: auto; height: auto; object-fit: cover;">
 </p>
 
 - **Description**: Mobile Word Puzzle Game published to the Google Play Store using the Unity Gaming Engine.
@@ -33,7 +33,7 @@ I'm a software engineer with a passion for Game Development, Embedded Engineerin
 
 ### ESP32 - Trail Cam Project
 <p>
-  <img src="/Assets/ESP32.png" alt="ESP32 graphic" style="width: 512px; height: 250px; object-fit: cover;">
+  <img src="/Assets/ESP32.png" alt="ESP32 graphic" style="width: auto; height: auto; object-fit: cover;">
 </p>
 
 - **Description**: A "security" system using the ESP32-CAM that utilizes FreeRTOS and Wi-Fi connectivity to detect motion and upload images to an AWS S3 bucket via API Gateway.
@@ -42,7 +42,7 @@ I'm a software engineer with a passion for Game Development, Embedded Engineerin
 
 ### RobinsonGaming.com
 <p>
-  <img src="/Assets/robinson-gaming-feature-graphic.png" alt="RobinsonGaming.com" style="width: 512px; height: 250px; object-fit: cover;">
+  <img src="/Assets/robinson-gaming-feature-graphic.png" alt="RobinsonGaming.com" style="width: auto; height: auto; object-fit: cover;">
 </p>
 
 - **Description**: Static site showcasing my projects and portfolio.
