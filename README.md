@@ -33,7 +33,7 @@ I'm a software engineer with a passion for Game Development, Embedded Engineerin
 
 ### ESP32 - Embedded Security Cam Project
 <p>
-  <img src="/Assets/esp32-architecture.jpeg" alt="ESP32 graphic" style="width: auto; height: auto; object-fit: cover;">
+  <img src="/Assets/esp32-architecture.jpg" alt="ESP32 graphic" style="width: auto; height: auto; object-fit: cover;">
 </p>
 
 - **Description**: A "security" system using the ESP32-CAM that utilizes FreeRTOS and Wi-Fi connectivity to detect motion and upload images to an AWS S3 bucket via API Gateway.
