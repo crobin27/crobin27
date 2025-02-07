@@ -31,14 +31,14 @@ I'm a software engineer with a passion for Game Development, Embedded Engineerin
   - [Apple App Store](https://apps.apple.com/us/app/word-match-tiles/id6477621209)
   - [GitHub Repo](https://github.com/crobin27/WordMatchTiles-Public)
 
-### ESP32 - Trail Cam Project
+### ESP32 - Embedded Security Cam Project
 <p>
-  <img src="/Assets/ESP32.png" alt="ESP32 graphic" style="width: auto; height: auto; object-fit: cover;">
+  <img src="/Assets/esp32-architecture.jpeg" alt="ESP32 graphic" style="width: auto; height: auto; object-fit: cover;">
 </p>
 
 - **Description**: A "security" system using the ESP32-CAM that utilizes FreeRTOS and Wi-Fi connectivity to detect motion and upload images to an AWS S3 bucket via API Gateway.
 - **Technologies Used**: ESP-IDF, C/C++, CMake, FreeRTOS, HTTP, RESTful API, AWS Infrastructure w/ Terraform (S3, Lambda, DynamoDB, API Gateway, IAM)
-- **[GitHub Repo](https://github.com/crobin27/trail-cam-esp32)**
+- **[GitHub Repo](https://github.com/crobin27/security-cam-esp32)**
 
 ### RobinsonGaming.com
 <p>
