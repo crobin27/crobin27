@@ -7,13 +7,10 @@ I'm a software engineer with a passion for Game Development, Embedded Engineerin
 
 ## 🛠 Skills
 ### Programming Languages
-- **C#**, **C++**, **Python**, **SQL**, **Terraform**, **JavaScript**, **HTML**, **CSS**
+- **C#**, **C/C++**, **Python**, **SQL**, **Terraform**, **JavaScript**, **Golang**
 
 ### Tools & Platforms
 - **Unity**, **Google Analytics**, **AWS**, **Firebase**, **Google Play Console**, **App Store Connect**, **Linux CLI**, **Virtual Machines**
-
-### Design & Prototyping
-- **Figma**, **Photoshop**, **Audacity**, **Premiere Pro**
 
 ---
 
